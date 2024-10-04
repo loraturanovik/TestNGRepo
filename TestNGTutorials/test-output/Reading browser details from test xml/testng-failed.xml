@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Reading browser details from test xml]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Reading browser details from test xml(failed)">
+    <classes>
+      <class name="ui.LoginTestParametars">
+        <methods>
+          <include name="launchApplication"/>
+        </methods>
+      </class> <!-- ui.LoginTestParametars -->
+    </classes>
+  </test> <!-- Reading browser details from test xml(failed) -->
+</suite> <!-- Failed suite [Reading browser details from test xml] -->
